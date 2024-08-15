@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-cohere
+langgraph
+pydantic
+typing-extensions
+streamlit
+faiss-cpu
+unstructured[md]
+tiktoken
+chromadb
+tavily-python
